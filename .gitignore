@@ -1,3 +1,4 @@
 plex/*
 downloads/*
 .env
+database.db
